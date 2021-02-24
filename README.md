@@ -12,3 +12,5 @@ Data for the normal chest xray is taken from kaggle
 https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
 Dataset is very small with 142 positive covid sample and 142 clean chest xray samples.
+
+Dataset is then divided into training and test samples.
